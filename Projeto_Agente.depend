@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559218341 source:c:\users\miguel\desktop\projeto_agente\projeto_agente\funcoes.cpp
+	<bits/stdc++.h>
+
+1559220687 source:c:\users\miguel\desktop\projeto_agente\projeto_agente\main.cpp
+	<bits/stdc++.h>
+	"chamada.h"
+
+1559219949 c:\users\miguel\desktop\projeto_agente\projeto_agente\chamada.h
+
